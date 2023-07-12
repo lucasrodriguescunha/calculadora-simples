@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto calculadora" src="https://imgur.com/a/YONr3y1" width="100%">
+  <img alt="projeto calculadora" src="https://i.imgur.com/UvfVMgB.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
