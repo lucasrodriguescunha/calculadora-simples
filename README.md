@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma calculadora simples, com foco no meu aprendizado.
+Uma calculadora simples, desenvolvida com base nos conhecimentos adquiridos em HTML, CSS e JavaScript.
 
 ## :memo: Licença
 
