@@ -33,8 +33,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<sub><b>Lucas Rodrigues Cunha</b></sub></a> <a href="https://github.com/beadobruski/" title="">🚀</a>
-
 Feito com ❤️ por Lucas Rodrigues Cunha
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/eulucasrodrigues//)](https://www.linkedin.com/in/eulucasrodrigues/) 
