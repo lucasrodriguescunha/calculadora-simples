@@ -35,10 +35,8 @@ Esse projeto está sob a licença MIT.
 
 Feito com ♥ by Lucas Rodrigues Cunha :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
-<a href="">
- <img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/81274077?s=400&u=1bafa9e459f909563635128442aea04975594633&v=4" width="150px;" alt=""/>
- <br />
- <sub><b>Lucas Rodrigues Cunha</b></sub></a> <a href="https://github.com/beadobruski/" title="">🚀</a>
+
+<sub><b>Lucas Rodrigues Cunha</b></sub></a> <a href="https://github.com/beadobruski/" title="">🚀</a>
 
 Feito com ❤️ por Lucas Rodrigues Cunha
 
