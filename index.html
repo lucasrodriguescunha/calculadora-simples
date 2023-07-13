@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,16 +9,17 @@
     <!-- Estilo -->
     <link rel="stylesheet" href="estilo.css">
 
-    <!-- Fonte - -->
+    <!-- Fonte - Architects Daughter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="icons8-calculadora-96.png" type="image/x-icon">
-    
+
     <title>Calculadora</title>
 </head>
+
 <body>
     <div class="fundo">
         <div class="calculadora">
@@ -26,7 +28,9 @@
             <table>
                 <tr>
                     <td><button class="botão" onclick="clean()">C</button></td>
-                    <td><button class="botão" onclick="back()"><</button></td>
+                    <td><button class="botão" onclick="back()">
+                            << /button>
+                    </td>
                     <td><button class="botão" onclick="insert('/')">/</button></td>
                     <td><button class="botão" onclick="insert('*')">*</button></td>
                 </tr>
@@ -49,14 +53,15 @@
                     <td rowspan="2"><button class="botão" style="height: 106px;" onclick="calcular()">=</button></td>
                 </tr>
                 <tr>
-                    <td colspan="2"><button class="botão" style="width: 106px;" onclick="insert('0')" >0</button></td>
+                    <td colspan="2"><button class="botão" style="width: 106px;" onclick="insert('0')">0</button></td>
                     <td><button class="botão" onclick="insert('.')">.</button></td>
                 </tr>
             </table>
         </div>
-    </div> 
+    </div>
 
     <script src="script.js"></script>
 
 </body>
+
 </html>
