@@ -1,6 +1,6 @@
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
     font-family: 'Architects Daughter', cursive;
 }
@@ -20,16 +20,16 @@
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 15px;
-    padding: 15px;
+    padding: 10.938rem;
     box-shadow: -3px -3px 7px -1px rgba(0,0,0,0.75);
 }
 
 .botão {
     width: 50px;
     height: 50px;
-    font-size: 25px;
+    font-size: 1.563rem;
     cursor: pointer;
-    margin: 3px;
+    margin: 0.188rem;
     background-color: rgb(31, 31, 31);
     border: none;
     color: white;
@@ -42,10 +42,10 @@
 #resultado {
     height: 45px;
     width: 215px;
-    margin: 5px;
+    margin: 0.125rem;
     background-color: white;
-    font-size: 25px;
+    font-size: 1.563rem;
     color: black;
     text-align: right;
-    padding: 5px;
+    padding: 0.125rem;
 }
