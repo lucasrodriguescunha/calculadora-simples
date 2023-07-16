@@ -13,14 +13,14 @@
     text-align: center;
 }
 
-.calculadora {
+.container {
     position: absolute;
     background-color: rgba(0, 0, 0, 0.8);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 15px;
-    padding: 10.938rem;
+    padding: 0.938rem;
     box-shadow: -3px -3px 7px -1px rgba(0,0,0,0.75);
 }
 
