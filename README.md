@@ -1,4 +1,4 @@
-<h1 align="center"> Semáforo </h1>
+<h1 align="center"> Calculadora </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto semáforo" src="https://i.imgur.com/UvfVMgB.png" width="100%">
+  <img alt="projeto calculadora" src="https://i.imgur.com/UvfVMgB.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
