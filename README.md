@@ -1,4 +1,4 @@
-<h1 align="center"> Calculadora </h1>
+<h1 align="center"> Semáforo </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto calculadora" src="https://i.imgur.com/UvfVMgB.png" width="100%">
+  <img alt="projeto semáforo" src="https://i.imgur.com/UvfVMgB.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,3 +36,4 @@ Esse projeto está sob a licença MIT.
 Feito com ❤️ por Lucas Rodrigues Cunha
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/eulucasrodrigues//)](https://www.linkedin.com/in/eulucasrodrigues/) 
+ 
