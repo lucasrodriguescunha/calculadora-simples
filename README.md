@@ -36,4 +36,6 @@ Esse projeto está sob a licença MIT.
 Feito com ❤️ por Lucas Rodrigues Cunha
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/eulucasrodrigues//)](https://www.linkedin.com/in/eulucasrodrigues/) 
+
+---
  
